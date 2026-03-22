@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and runtime files
+*.log
+
+# Project-generated outputs/caches
+cmcts_cache/
+mcts_cache/
+output/
+cmcts_error_logs/
+
+# Editor/IDE
+.vscode/
+.idea/
